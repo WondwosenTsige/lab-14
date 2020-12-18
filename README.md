@@ -4,8 +4,8 @@ Number and name of feature: DB Normailization
 
 Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 10:15
 
-Finish time: _____
+Finish time: 11:10
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour
